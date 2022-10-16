@@ -1,0 +1,2 @@
+# sqlOdevUc
+www.patika.dev
